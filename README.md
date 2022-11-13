@@ -19,15 +19,19 @@
 - [Kreuzesystem ICE 1](https://www.math.tugraz.at/lv-admin/501071w22)
 
 ## Mathe
-- [Matrizenrechner](matrixcalc.org/de)
-- [Wolfram Alpha](wolframalpha.com)
+- [Matrizenrechner](https://matrixcalc.org/de/)
+- [Wolfram Alpha](https://wolframalpha.com)
+- [SymboLab](https://www.symbolab.com)
 
 ## ESP
 - [GitLab](https://gitlab.tugraz.at)
 - [VSCode (IDE)](https://code.visualstudio.com)
+- [References](https://cplusplus.com/reference/)
+- [YouTube channel](https://www.youtube.com/c/JacobSorber)
 
 ## GDI
 - [GitLab](https://student.cgv.tugraz.at)
+- [Boolean Algebra Calculator](https://boolean-simplifier.com/deutsch)
 
 ## LaTex
 - [Overleaf](https://de.overleaf.com)
