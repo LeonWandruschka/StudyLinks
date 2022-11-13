@@ -27,7 +27,8 @@
 - [GitLab](https://gitlab.tugraz.at)
 - [VSCode (IDE)](https://code.visualstudio.com)
 - [References](https://cplusplus.com/reference/)
-- [YouTube channel](https://www.youtube.com/c/JacobSorber)
+- [YouTube (coding TUGraz)](https://www.youtube.com/c/codingtugraz)
+- [YouTube (Jacob Sober)](https://www.youtube.com/c/JacobSorber)
 
 ## GDI
 - [GitLab](https://student.cgv.tugraz.at)
